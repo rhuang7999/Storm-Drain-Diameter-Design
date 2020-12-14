@@ -5,14 +5,14 @@ This program will aid the design of storm drains given the parameters of the loc
 Assumptions:
 
 Inputs:
-If the units are in US or SI
-Desired Design Flowrate
-Slope of pipe
-  Length of Pipe
-  Head Loss 
-Material of Pipe
+* If the units are in US or SI
+* Desired Design Flowrate
+* Slope of pipe
+  * Length of Pipe
+  * Head Loss 
+* Material of Pipe
 
 Outputs:
-Diameter of Pipe
-Maximum Flowrate
-Maximum Velocity
+* Diameter of Pipe
+* Maximum Flowrate
+* Maximum Velocity
