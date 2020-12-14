@@ -13,6 +13,7 @@ Inputs:
 * Material of Pipe
 
 Outputs:
-* Diameter of Pipe
+* Calculated Pipe Diameter
+* Storm Drain Pipe Diameter
 * Maximum Flowrate
 * Maximum Velocity
